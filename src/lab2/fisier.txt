@@ -1,1 +1,2 @@
 un fisier
+adaugare linie pe feature1
