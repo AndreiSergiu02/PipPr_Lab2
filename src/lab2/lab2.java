@@ -6,6 +6,7 @@ public class lab2 {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("message for second commit");
+		System.out.println("just a new commit message");
 	}
 
 }
