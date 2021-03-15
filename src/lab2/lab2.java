@@ -10,3 +10,20 @@ public class lab2 {
 	}
 
 }
+
+class CountCharacter    
+{    
+    public static void main(String[] args) {    
+        String string = "incercare de combinare al ramurilor master si CountCharacter";    
+        int count = 0;    
+            
+        //contorizeaza fiecare caracter exceptand spatiul    
+        for(int i = 0; i < string.length(); i++) {    
+            if(string.charAt(i) != ' ')    
+                count++;    
+        }    
+            
+           
+        System.out.println("Numarul de caractere al stringului este: " + count);    
+    }    
+}     
